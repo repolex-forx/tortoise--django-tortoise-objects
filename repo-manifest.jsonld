@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/tortoise/django-tortoise-objects/commit/8d47497fed442ad01c3d4cb85e681f88fb740b87",
       "git:hexsha": "8d47497fed442ad01c3d4cb85e681f88fb740b87",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.1.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.1.2",
+      "repolex:parsedAt": "2026-10-11T05:08:18.827741+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tortoise/django-tortoise-objects/commit/691fe46a035380e2c9910dc7d0454f817886ee1f",
