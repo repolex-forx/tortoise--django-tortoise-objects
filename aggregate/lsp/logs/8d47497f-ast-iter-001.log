@@ -1,0 +1,7 @@
+[2026-10-11T05:06:40Z] === AST ITERATION 1 START | repo=tortoise/django-tortoise-objects sha=8d47497f ===
+[2026-10-11T05:06:40Z] [iter=1] PHASE START: ast repo=tortoise/django-tortoise-objects sha=8d47497f
+[2026-10-11T05:06:40Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T05:06:59Z] [iter=1] AST chunks built count=1 triples=351620
+[2026-10-11T05:06:59Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/8d47497fed442ad01c3d4cb85e681f88fb740b87/.complete
+[2026-10-11T05:06:59Z] [iter=1] PHASE END: ast elapsed_s=20 elapsed_min=0.3
+[2026-10-11T05:06:59Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

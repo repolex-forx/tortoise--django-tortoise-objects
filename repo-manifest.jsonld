@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tortoise/django-tortoise-objects/commit/8d47497fed442ad01c3d4cb85e681f88fb740b87",
       "git:hexsha": "8d47497fed442ad01c3d4cb85e681f88fb740b87",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.1.2"
     },
     {
